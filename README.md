@@ -1,2 +1,2 @@
 # app-config
-Spring Config Server for JPMC
+Spring Config Server
